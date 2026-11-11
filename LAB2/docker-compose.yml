@@ -4,4 +4,4 @@ services:
         ports:
         - "8000:80"
         volumes:   
-            - "../LAB1:/usr/share/nginx/html"
+            - ../LAB1:/usr/share/nginx/html
